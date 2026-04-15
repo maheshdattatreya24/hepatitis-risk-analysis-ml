@@ -76,26 +76,34 @@ Traditional medical analysis evaluates blood test values independently, which ca
 
 
 ## 📂 Project Structure
-'''
-
 project/
 │
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model.py
+│   └── utils.py
+│
 ├── notebook/
-│ └── hepatitis_hidden_pattern_mining.ipynb
+│   └── hepatitis_hidden_pattern_mining.ipynb
 │
 ├── data/
-│ ├── hepatitis.data
-│ └── hepatitis.names
+│   ├── hepatitis.data
+│   └── hepatitis.names
 │
-├── outputs/
-│ ├── heatmap.png
-│ └── risk_distribution.png
+├── results/
+│   ├── heatmap.png
+│   └── risk_distribution.png
+│
+├── docs/
+│   └── project_report.pdf
+│
+├── presentation/
+│   └── final_ppt.pptx
 │
 ├── README.md
-└── requirements.txt
-
-'''
-
+├── requirements.txt
+└── .gitignore
 
 ## 🔗 Author
 Mahesh Dattatreya
