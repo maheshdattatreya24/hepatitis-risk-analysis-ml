@@ -76,22 +76,21 @@ Traditional medical analysis evaluates blood test values independently, which ca
 
 
 ## 📂 Project Structure
-project-folder/
+project/
 │
 ├── notebook/
-│   └── hepatitis_hidden_pattern_mining.ipynb
+│ └── hepatitis_hidden_pattern_mining.ipynb
 │
 ├── data/
-│   ├── hepatitis.data
-│   └── hepatitis.names
+│ ├── hepatitis.data
+│ └── hepatitis.names
 │
 ├── outputs/
-│   ├── heatmap.png
-│   └── risk_distribution.png
+│ ├── heatmap.png
+│ └── risk_distribution.png
 │
 ├── README.md
 └── requirements.txt
-
 
 
 
