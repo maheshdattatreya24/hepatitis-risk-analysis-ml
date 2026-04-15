@@ -76,6 +76,8 @@ Traditional medical analysis evaluates blood test values independently, which ca
 
 
 ## 📂 Project Structure
+'''
+
 project/
 │
 ├── notebook/
@@ -92,7 +94,7 @@ project/
 ├── README.md
 └── requirements.txt
 
-
+'''
 
 
 ## 🔗 Author
