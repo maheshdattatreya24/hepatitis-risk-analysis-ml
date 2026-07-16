@@ -6,7 +6,7 @@ This project presents an **unsupervised machine learning framework** to identify
 Unlike traditional approaches that analyze parameters independently, this model captures **interactions between biomarkers** to detect early risk signals.
 
 ---
-
+   
 ## 🔍 Problem Statement
 Traditional medical analysis evaluates blood test values independently, which can miss subtle but critical multivariate relationships.
 
